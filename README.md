@@ -10,3 +10,7 @@ Results:
 	5) similar possibility of articles summarization.
  
 In perspective it looks possible to relate papers in concept feature space and thus inspire new discoveries.
+
+<img width="1021" alt="title words shares" src="https://github.com/Daniele-Gregori/ArXiv-Hepth-Data-Analysis/assets/147420933/1aac5930-0f9f-4d2b-8a33-af186e5ffd07">
+
+![graph papers concept space](https://github.com/Daniele-Gregori/ArXiv-Hepth-Data-Analysis/assets/147420933/8657f3fa-47ac-4ec9-adf2-2a33042a009a)
