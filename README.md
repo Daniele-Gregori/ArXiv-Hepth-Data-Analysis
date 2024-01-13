@@ -9,7 +9,7 @@ Results:
 	4) effective answering of field-specific questions by feeding article introductions into high level AI/LLM functionality;
 	5) similar possibility of articles summarization.
  
-In perspective it looks possible to relate papers in concept feature space and thus inspire new discoveries.
+In perspective it looks sensible to relate papers in concept feature space and thus inspire new discoveries.
 
 <img width="1021" alt="title words shares" src="https://github.com/Daniele-Gregori/ArXiv-Hepth-Data-Analysis/assets/147420933/1aac5930-0f9f-4d2b-8a33-af186e5ffd07">
 
