@@ -8,10 +8,13 @@ Exploration of the following possible tasks: 1) counting; 2) feature extraction;
  
 2) 2-words combinations of title words turn out to correspond to hep-th concepts and allow effective feature extraction and CONCEPT embedding of abstracts;
  
-3) classifiers of article categories are built as Neural Networks (NNs) based on either CONCEPT or SciBERT embedding;<img width="493" alt="confusion matrix proper" src="https://github.com/Daniele-Gregori/ArXiv-Hepth-Data-Analysis/assets/147420933/bbaadccc-628e-4723-b2b4-fe939f398d08">
+3) classifiers of article categories are built as Neural Networks (NNs) based on either CONCEPT or SciBERT embedding;
 
- 
-4) through a more sophisticated NN, the CONCEPT classifier works also for the subcategories within hep-th category;<img width="495" alt="confusion matrix" src="https://github.com/Daniele-Gregori/ArXiv-Hepth-Data-Analysis/assets/147420933/90d5d296-a4cb-4ae9-81bc-cde0f7739051">
+<img width="493" alt="confusion matrix proper" src="https://github.com/Daniele-Gregori/ArXiv-Hepth-Data-Analysis/assets/147420933/bbaadccc-628e-4723-b2b4-fe939f398d08">
+
+4) through a more sophisticated NN, the CONCEPT classifier works also for the subcategories within hep-th category;
+  
+<img width="495" alt="confusion matrix" src="https://github.com/Daniele-Gregori/ArXiv-Hepth-Data-Analysis/assets/147420933/90d5d296-a4cb-4ae9-81bc-cde0f7739051">
  
 5) effective question answering and summarization of article introductions, through high level AI WL functionality;
  
