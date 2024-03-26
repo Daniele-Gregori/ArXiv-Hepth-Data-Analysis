@@ -28,7 +28,13 @@ In perspective it looks sensible to relate papers in feature space and thus insp
 
 All this can be found in the notebook named arXivDataAnalysisV1.3 (to unzip).
 
-Then, as a partial aside, in the notebook Affiliation Countries, we also show the computation of total number of papers over affiliated co-authors, for each country in 2023. This is done using directly inspirehep API. The results are the following:
+Then, as a partial aside, in the notebook Affiliation Countries, we also show the computation of total number of papers over affiliated co-authors, for each country in 2023. This is done using directly inspirehep API. The results are the following: as total
 
-<img width="733" alt="hep-th world ranking full" src="https://github.com/Daniele-Gregori/ArXiv-Hepth-Data-Analysis/assets/147420933/3ba23da7-ae0f-4988-a4bf-e0acf75655cf">
+<img width="913" alt="Affiliation Countries Total Table" src="https://github.com/Daniele-Gregori/ArXiv-Hepth-Data-Analysis/assets/147420933/5e1ecd74-6f8d-4041-8846-8fc2820aa23a">
+
+or as shares per (1->10^6) capita
+
+<img width="935" alt="Affiliation Countries Capita Table" src="https://github.com/Daniele-Gregori/ArXiv-Hepth-Data-Analysis/assets/147420933/7c3da87e-4edb-499b-9d48-46bccf2eb7cb">
+
+
 
